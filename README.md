@@ -3,7 +3,7 @@
 Этот проект к уроку 162. См.  
 https://github.com/edu81zau/petrichenko-javascript
 
-Если все прошло удачно, то  сайт откроется на URL "https://edu81zau.github.io/my-app".
+Если все прошло удачно, то  сайт откроется на URL "https://edu81zau.github.io".
 
 ## Документация
 
