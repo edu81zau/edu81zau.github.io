@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Лекция 162. "Бандлинг" и выгрузка проекта на сервер
+
+Этот проект к уроку 162. См.  
+https://github.com/edu81zau/petrichenko-javascript
+
+## Документация
+
+DOC [ENG] (https://create-react-app.dev/docs/deployment/)  
+See section "GitHub Pages"
+Video with instructions for add project to GitHub Pages
+https://www.youtube.com/watch?v=yioEELA46qs
+Links of repositories
+https://github.com/jeshio?tab=repositories
+Link to site on GitHub Pages (Don't work)
+https://jeshio.github.io/react-test-app/
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
