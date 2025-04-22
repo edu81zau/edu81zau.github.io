@@ -3,16 +3,18 @@
 Этот проект к уроку 162. См.  
 https://github.com/edu81zau/petrichenko-javascript
 
+Если все прошло удачно, то  сайт откроется на URL "https://edu81zau.github.io/my-app".
+
 ## Документация
 
-DOC [ENG] (https://create-react-app.dev/docs/deployment/)  
+* DOC [ENG] (https://create-react-app.dev/docs/deployment/)  
 See section "GitHub Pages"
-Video with instructions for add project to GitHub Pages
+* Video with instructions for add project to GitHub Pages
 https://www.youtube.com/watch?v=yioEELA46qs
-Links of repositories
-https://github.com/jeshio?tab=repositories
-Link to site on GitHub Pages (Don't work)
-https://jeshio.github.io/react-test-app/
+  * Links of repositories
+  https://github.com/jeshio?tab=repositories
+  * Link to site on GitHub Pages (Don't work)
+  https://jeshio.github.io/react-test-app/
 
 
 
